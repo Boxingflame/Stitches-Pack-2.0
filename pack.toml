@@ -1,0 +1,13 @@
+name = "Stitches Pack 2 . 0"
+author = "Stitches"
+version = "0.1.2"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "3846febd43814ddb3dfd7f97fb991e7601ff24d1fc42da24a1a4f43a115f5764"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.228"
