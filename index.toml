@@ -13,6 +13,58 @@ file = "config/openpartiesandclaims-server.toml"
 hash = "442bd9bfe58a4d293e95dd1fbb6dad8c36b14f12d912435b8a8355681a772800"
 
 [[files]]
+file = "config/starterkit.json5"
+hash = "fe46704445260b2bbb0eafad337b298af85472d997ddd9ea7b79b68fca6017f9"
+
+[[files]]
+file = "config/starterkit/descriptions/Builder.txt"
+hash = "b539eb40ea4ae8c0e05a7270b4197ae7005d224786b81c03a741166c708c5f97"
+
+[[files]]
+file = "config/starterkit/descriptions/Default.txt"
+hash = "93dce0217213a6a7dfdb266c0b18a4bc7e5df5edfe2cf377e924a71e25840ebf"
+
+[[files]]
+file = "config/starterkit/descriptions/Engineer.txt"
+hash = "bcd5b1cbb6ac6765eee6e4794d356f2abd6d6dee8941ba298f0bb140b1a953c1"
+
+[[files]]
+file = "config/starterkit/descriptions/Explorer.txt"
+hash = "b4926348e319fd7b9cee0a432d2058cc4a885a33435a04abf0468f4f78dbecf0"
+
+[[files]]
+file = "config/starterkit/kits/Builder.txt"
+hash = "5876c74becb1b82cb865032ba2531a26c1fb6c0c1672e2d76df9dc351fdcdb9e"
+
+[[files]]
+file = "config/starterkit/kits/Default.txt"
+hash = "330d9bafe460d269288a6ce0868d39be4902f151cbbf49309dbf6308a14933af"
+
+[[files]]
+file = "config/starterkit/kits/Engineer.txt"
+hash = "c248907bccde77c335fdecd50c2981feab6873c1ee9f5631f2bcdfb98fc44384"
+
+[[files]]
+file = "config/starterkit/kits/Explorer.txt"
+hash = "9d34ff07a85ed393a88df6f251f292496f8966a97f983424e70d424ac6848b6c"
+
+[[files]]
+file = "config/starterkit/kits/inactive/Archer.txt"
+hash = "0f00a01ce3bff3f33748f257761822b0553db478902f7d4dd03f198eb7e95a13"
+
+[[files]]
+file = "config/starterkit/kits/inactive/Default.txt"
+hash = "193f74ea80658b11e009a2861452c95075d56aa4e2083d0b121bed2ececac6f3"
+
+[[files]]
+file = "config/starterkit/kits/inactive/Lumberjack.txt"
+hash = "d80303242d592bce2450f488b4f5b85ddefce7167f36255086c7288072799862"
+
+[[files]]
+file = "config/starterkit/kits/inactive/Witch.txt"
+hash = "0d28e1544a862d8114f40dc2c7a829eae27ab353960fbe1ebc5db0e4f04b5d74"
+
+[[files]]
 file = "config/waystones-common.toml"
 hash = "ce46f30a468829a464e624a8c80b32937c7fe59f937e026e5670478468181160"
 
@@ -1141,58 +1193,16 @@ hash = "013b8f85ef4338daa85e632b4d9830ef6320e23266586f4482335e42d22b0051"
 metafile = true
 
 [[files]]
+file = "resourcepacks/os-colorful-grasses.pw.toml"
+hash = "adc78aa4349b15f997b1731b2347e42297188fbe123bb1a1edfa9b8dd7f79734"
+metafile = true
+
+[[files]]
 file = "resourcepacks/shrimps-immersive-interfaces.pw.toml"
 hash = "a7b531b844f689209d2043d436b20995f0f645fc6b08010a7e1b5944c6c092bb"
 metafile = true
 
 [[files]]
-file = "shaderpacks/BSL_v10.0.zip"
-hash = "b6e79a4f5746bd0b2bd8d54bb4c430539e7e747e8679ac985bc07368422e4e09"
-
-[[files]]
-file = "shaderpacks/BSL_v10.0.zip.txt"
-hash = "947e5622f528da9af825256465403db22949bca639a23eb33a1208c4e7098af0"
-
-[[files]]
-file = "shaderpacks/Bliss-Shader-Stable.zip"
-hash = "307e1c698a6de07acd21c462ccd93ae4e044ea8963c8ccfa88e0827b570b1c53"
-
-[[files]]
-file = "shaderpacks/Bliss-Shader-Stable.zip.txt"
-hash = "58618b95ebed2e5d20c0b04c01522e97cf72d06fb49c0f1078b33ca762a1b4b9"
-
-[[files]]
-file = "shaderpacks/ComplementaryUnbound_r5.5.1.zip"
-hash = "61d133b24b6a92e46a3d7df791bb2ff163bbba10eed59df979b9bd727c24fbaf"
-
-[[files]]
-file = "shaderpacks/ComplementaryUnbound_r5.5.1.zip.txt"
-hash = "5c206c32fda097cd8554b6e272281ce358c9a56bcaf32279c2dcc7f13764a32a"
-
-[[files]]
-file = "shaderpacks/Eclipse-Shader-Unstable.zip"
-hash = "504e42a4b3c3e8dfd71bf03243ae468e2302f28580f1d086e6b745de3c42dc85"
-
-[[files]]
-file = "shaderpacks/Eclipse-Shader-Unstable.zip.txt"
-hash = "2d8f736d035701c443e56b19cae1632de195dcbd3ea40aa080654f6f453253a0"
-
-[[files]]
-file = "shaderpacks/MakeUp-UltraFast-9.1e.zip"
-hash = "daf36d92454fd6a31b10a3b79e2573473bb6cc06d11bc7fd273f53f7458182ac"
-
-[[files]]
-file = "shaderpacks/Solas Shader V2.8b.zip"
-hash = "915c742c6d340c225f647fbb9b423a745bcf066fb1124821cb79b7806f55dd3a"
-
-[[files]]
-file = "shaderpacks/photon_v1.1.zip"
-hash = "1228172bfb0ee49de3d2b6268390bac52c9a57dd0aa92c8903e57cf14583203a"
-
-[[files]]
-file = "shaderpacks/photon_v1.1.zip.txt"
-hash = "1aaeb2cce84bde79134d180eda21d85de5c8a6de41b3b9d168fa99bb1495b2b3"
-
-[[files]]
-file = "shaderpacks/rethinking-voxels_r0.1-beta8.zip"
-hash = "58c83e0b2b2ded9c588ece035b4b35d562f29228bed206e0f2a23f0533e928d4"
+file = "shaderpacks/bliss-shader.pw.toml"
+hash = "8ffd81a5e0b4c3bc2daf0d86714ef56df4beb1ed87a5c41c4e9bbb94a7006bc1"
+metafile = true
