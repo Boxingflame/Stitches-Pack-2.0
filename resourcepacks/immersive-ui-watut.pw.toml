@@ -1,0 +1,13 @@
+name = "Immersive Interfaces - Watut Mod Support"
+filename = "Immersive§0_§fInterfaces§0 Addon.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nFzAfEjp/versions/Tcksc0KQ/Immersive%C2%A70_%C2%A7fInterfaces%C2%A70%20Addon.zip"
+hash-format = "sha512"
+hash = "e98b7dec1fe0154554b3f097226dd8588ddf8ccf64a3056bcf10a4b288a9eae6423b9ad9069ddf7cf242f22d03e0ee2cf074a278f55a0b9dbff83514faaace2c"
+
+[update]
+[update.modrinth]
+mod-id = "nFzAfEjp"
+version = "Tcksc0KQ"

@@ -1,0 +1,13 @@
+name = "Dragon Drops Elytra"
+filename = "dragondropselytra-1.21.1-3.5.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/DPkbo3dg/versions/PULGUIYZ/dragondropselytra-1.21.1-3.5.jar"
+hash-format = "sha512"
+hash = "db0c09f36a818d6c1b259332c4f66ff5956c16c85ba3ca6dea6d84e4ba88da5abe10803aba60489a2e08a7a7df38e7bf9b413b8358db2fec6cb0bdf7e23602c2"
+
+[update]
+[update.modrinth]
+mod-id = "DPkbo3dg"
+version = "PULGUIYZ"

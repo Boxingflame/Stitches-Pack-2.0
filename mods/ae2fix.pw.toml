@@ -1,0 +1,13 @@
+name = "AE2Fix"
+filename = "ae2fix-0.6.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/NEP0xCK3/versions/FuxVSl0k/ae2fix-0.6.0.jar"
+hash-format = "sha512"
+hash = "0136fd55357e68e837e6921ab8f325372e5e6315fb864f0497137b006c86c925e91c577a9dc181586f1c6a3f51b84e2231e974d1e18ef94d04042f90af728988"
+
+[update]
+[update.modrinth]
+mod-id = "NEP0xCK3"
+version = "FuxVSl0k"

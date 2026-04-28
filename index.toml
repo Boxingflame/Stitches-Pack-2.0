@@ -1198,11 +1198,6 @@ hash = "adc78aa4349b15f997b1731b2347e42297188fbe123bb1a1edfa9b8dd7f79734"
 metafile = true
 
 [[files]]
-file = "resourcepacks/shrimps-immersive-interfaces.pw.toml"
-hash = "a7b531b844f689209d2043d436b20995f0f645fc6b08010a7e1b5944c6c092bb"
-metafile = true
-
-[[files]]
 file = "shaderpacks/bliss-shader.pw.toml"
 hash = "8ffd81a5e0b4c3bc2daf0d86714ef56df4beb1ed87a5c41c4e9bbb94a7006bc1"
 metafile = true

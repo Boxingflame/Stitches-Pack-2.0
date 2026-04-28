@@ -1,0 +1,13 @@
+name = "Naturalist"
+filename = "naturalist-1.0.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/F8BQNPWX/versions/ZWhbipfu/naturalist-1.0.1-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "d2fe0eaa9158d236e9ca3cf39b0570d22b5f33050beb4ed50f4d404d9aefa5780b4903c063ccd14ebcc464525291e28f0021f9fea0e008a9dc3200b535eaf2fe"
+
+[update]
+[update.modrinth]
+mod-id = "F8BQNPWX"
+version = "ZWhbipfu"

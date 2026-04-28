@@ -1,0 +1,13 @@
+name = "More Mob Variants x Fresh Animations - Extensions"
+filename = "MMV+FA+Details-v2.0.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/jFHtq9IJ/versions/f33WKtTZ/MMV%2BFA%2BDetails-v2.0.0.zip"
+hash-format = "sha512"
+hash = "2582355d475e00461476355171a93d0994a3d27eb16957fc68cca65f9239331a8ddba1229e463cc4cd25cfb0f3cb25c00f98cabebdb79d4c88a6459ae19bf513"
+
+[update]
+[update.modrinth]
+mod-id = "jFHtq9IJ"
+version = "f33WKtTZ"

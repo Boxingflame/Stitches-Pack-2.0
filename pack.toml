@@ -1,12 +1,12 @@
 name = "Stitches Pack 2 . 0"
 author = "Stitches"
-version = "1.0.3"
+version = "1.0.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "061a939e7a68814e220624dcee5129f93ed012b28bc65a50bccd0762e7614714"
+hash = "d9dc92695ddebebbe3ae670d71684c3b8a68e9c31a90c193756502cddf0b47fa"
 
 [versions]
 minecraft = "1.21.1"

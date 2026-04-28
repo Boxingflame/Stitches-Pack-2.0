@@ -1,0 +1,13 @@
+name = "EMI Patternizer"
+filename = "emi_patternizer-1.1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/7FoirOzn/versions/U61HQm24/emi_patternizer-1.1.1.jar"
+hash-format = "sha512"
+hash = "da33fa2116342156a198f91bf5bebfc1d8fc5ee2756575319388bbfef220da13a74a3c3f6e0ef0abc85661f79a01fd9b0813e63c4cd74fa0cca2c508edad0e8b"
+
+[update]
+[update.modrinth]
+mod-id = "7FoirOzn"
+version = "U61HQm24"
