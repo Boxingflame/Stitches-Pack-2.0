@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/alexsmobs-common.toml"
+hash = "199780a11fff42f04e8806677fff6255d51e815493b52fa7224be8b6b344306d"
+
+[[files]]
+file = "config/comforts-server.toml"
+hash = "7a618bd3fc7fd7c02f2935b5ca9282b90663d823d63c521e1fba1b650aaec0d2"
+
+[[files]]
 file = "config/openpartiesandclaims-server.toml"
 hash = "442bd9bfe58a4d293e95dd1fbb6dad8c36b14f12d912435b8a8355681a772800"
 
@@ -114,6 +122,11 @@ hash = "feb4efaaeaa4ee270d04de7f06e377ada25e3977649c7d6de227ea6338396634"
 metafile = true
 
 [[files]]
+file = "mods/c2me-neoforge.pw.toml"
+hash = "4b060001a83142b94d6b60cf32bc015b0deb6090d5d962dac4650b3caed14f89"
+metafile = true
+
+[[files]]
 file = "mods/caelus.pw.toml"
 hash = "992b0dca9683f225fc774d779762d18a009f2d82b9d051e7c0b55a33a95d9238"
 metafile = true
@@ -224,6 +237,11 @@ hash = "681bc58cb8782800ad2dc5d21199e35b5048ed2b1b32c9e06579e41ee3c199a3"
 metafile = true
 
 [[files]]
+file = "mods/create-confectionery.pw.toml"
+hash = "85bfeee744eff6e3cb9146da32407874d569237298072c4455224566e322e476"
+metafile = true
+
+[[files]]
 file = "mods/create-connected.pw.toml"
 hash = "ac4d934d395dd4422d14cfc2f90670896ada7cb2d97fe078706e93a9de1b45a9"
 metafile = true
@@ -284,6 +302,11 @@ hash = "4c0763d5351f0264d1d60c6fee012663f4855a9def0c31c309560779782945d1"
 metafile = true
 
 [[files]]
+file = "mods/create-let-the-adventure-begin.pw.toml"
+hash = "8ce8e4ca9787999c2c369d7dc22096fec7e42e5066036e8613f2147924e79734"
+metafile = true
+
+[[files]]
 file = "mods/create-liquid-fuel.pw.toml"
 hash = "2af9229718d9edb1eaa4b88fac0063ab2f5f7ba7650a4efa5f0a8e6ce25549cd"
 metafile = true
@@ -329,6 +352,11 @@ hash = "a95282ba6853e9f107ff312ae3c353f711c13267ba54b0520c97d37358e9e640"
 metafile = true
 
 [[files]]
+file = "mods/create-structures-arise.pw.toml"
+hash = "56fb3889f1962712701a38e088da74557591d507fb3b018d63624841721091e2"
+metafile = true
+
+[[files]]
 file = "mods/create-stuff-additions.pw.toml"
 hash = "7bdf3b6cbe0579a034372ce1eec83e3c1888134f19beb6b17fbf2005706453be"
 metafile = true
@@ -351,6 +379,11 @@ metafile = true
 [[files]]
 file = "mods/create-trainutilities.pw.toml"
 hash = "fe60a010c4a980865f3497cbc1247b40fadbb4bf68c9b653a241227bd7e52525"
+metafile = true
+
+[[files]]
+file = "mods/create-trimmed.pw.toml"
+hash = "2e0e167422dc70f6d92da6669020e1cfd4417e47118ea66bd8f566a3295c8040"
 metafile = true
 
 [[files]]
@@ -704,6 +737,11 @@ hash = "27302b0087cf53570cd7a3b4eb550a208cbb6f6ba07210c604176155f39e0078"
 metafile = true
 
 [[files]]
+file = "mods/krypton-fnp.pw.toml"
+hash = "5a96006110f4cdd98460a994373153909a5f0bf6cb68c5ac3a64adbda86eb302"
+metafile = true
+
+[[files]]
 file = "mods/leaves-be-gone.pw.toml"
 hash = "3f907a8532b4ca98390055ca0cb1bbd87e8ebcd44be6afe9b69280859ff37035"
 metafile = true
@@ -729,8 +767,8 @@ hash = "48bd525ac1cd8811759a7842548a49e51bd25455b8044f99a423d464987dfdc0"
 metafile = true
 
 [[files]]
-file = "mods/lootr.pw.toml"
-hash = "114b4f1097f17b916cc5df3334aa57e34c6f4a108b87cb911e29134dd5ff980d"
+file = "mods/mcjtylib.pw.toml"
+hash = "cd21ae3295cab57eca79bfee703220394c6f4bd82c76d419a8ced53f3968cded"
 metafile = true
 
 [[files]]
@@ -794,8 +832,23 @@ hash = "42805ef7e224873873d190b0363f2a53dae02530553574f29fab92e258bc0470"
 metafile = true
 
 [[files]]
+file = "mods/naturalist.pw.toml"
+hash = "d750943c1b14e129266f3f9a9f5d05e99fbe49b6555fae3723291d1124981423"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "35acdf433fe8f8599f59975e848efdb717663c2c471d3a5dc18743799795a736"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "5da18814472be5dc93a21886983646da3a7236413800075ac75229be82d114fa"
+metafile = true
+
+[[files]]
+file = "mods/noisiumforked.pw.toml"
+hash = "df6299f5622d3e53a9cae66696cdc7b2b557b11b5be101eebb7ebd7a91d501db"
 metafile = true
 
 [[files]]
@@ -806,6 +859,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "44dde164b3d9e130a8d8dd6ff84bfcc936825465b966a06c7358f0ddf3660fd0"
+metafile = true
+
+[[files]]
+file = "mods/nullscape.pw.toml"
+hash = "dcfbfa39abeaba554c2c5323f9b9a3ec58dfc386aca2d237f73948abdbdc7125"
 metafile = true
 
 [[files]]
@@ -866,6 +924,21 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
+metafile = true
+
+[[files]]
+file = "mods/rftools-base.pw.toml"
+hash = "9431c7ba50753e7c340b62d7fbf4a8d18f3cf355d446155731ec30baeed918c7"
+metafile = true
+
+[[files]]
+file = "mods/rftools-builder.pw.toml"
+hash = "2b22feda18ec00010e7a9493577e3c6a1d118d3b0885546b39f6ce5284f4ec11"
+metafile = true
+
+[[files]]
+file = "mods/rftools-dimensions.pw.toml"
+hash = "cda35451a7ecb03ac10b946e33ca7f95955431752b16e3802ed2e76254c194ec"
 metafile = true
 
 [[files]]
@@ -939,11 +1012,6 @@ hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
 metafile = true
 
 [[files]]
-file = "mods/stellarity.pw.toml"
-hash = "d00442fc5ca76e08c5b1dc9eb15ee67ea993b608fae12c7b48529e044b543303"
-metafile = true
-
-[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "cd5c8c1f6183f5c2ca899daed14f272890566002dfcb2d9f9a59dfbfac0bc8f6"
 metafile = true
@@ -981,6 +1049,11 @@ metafile = true
 [[files]]
 file = "mods/vanillabackport.pw.toml"
 hash = "ca37901ce16f10e30715edf354b5d08c500e60abdb7ce64da79ce04a3d880ced"
+metafile = true
+
+[[files]]
+file = "mods/variants-and-ventures.pw.toml"
+hash = "be4f7b9d9958f363f6a1d5a2d8b33a379738bb59da97d3402ba4e57ca752e493"
 metafile = true
 
 [[files]]
@@ -1045,6 +1118,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "6a1556a0e4fcb411b33efafc3382b4abd9a6e671f140dc0d42e9aad2808e24f3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-variants-and-ventures.pw.toml"
+hash = "710a29fead883a2df319be7fafcedadd526851d7337aaf3eff3fffa990504972"
 metafile = true
 
 [[files]]
