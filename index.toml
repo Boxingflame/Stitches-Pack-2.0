@@ -1203,6 +1203,26 @@ hash = "adc78aa4349b15f997b1731b2347e42297188fbe123bb1a1edfa9b8dd7f79734"
 metafile = true
 
 [[files]]
+file = "serverconfig/openpartiesandclaims-default-player-config.toml"
+hash = "fe68f032afcd7d0f70f07b50f1fbfac4a8d627fc9033379f65982b875b40d13a"
+
+[[files]]
+file = "serverconfig/openpartiesandclaims-expired-claim-config.toml"
+hash = "fe68f032afcd7d0f70f07b50f1fbfac4a8d627fc9033379f65982b875b40d13a"
+
+[[files]]
+file = "serverconfig/openpartiesandclaims-server-claim-config.toml"
+hash = "fe68f032afcd7d0f70f07b50f1fbfac4a8d627fc9033379f65982b875b40d13a"
+
+[[files]]
+file = "serverconfig/openpartiesandclaims-wilderness-config.toml"
+hash = "1af04ed0a213840cc2563a28f4d83ffcff3e9a35382a842653127acc2ae594a9"
+
+[[files]]
+file = "serverconfig/readme.txt"
+hash = "b1022ab932f8f0ea0cf78d9f312e95b85a4f96f59ca430e63f9a435e512d1186"
+
+[[files]]
 file = "shaderpacks/bliss-shader.pw.toml"
 hash = "8ffd81a5e0b4c3bc2daf0d86714ef56df4beb1ed87a5c41c4e9bbb94a7006bc1"
 metafile = true
