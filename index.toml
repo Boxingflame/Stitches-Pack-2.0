@@ -1,12 +1,20 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".pack.toml.kate-swp"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "config/alexsmobs-common.toml"
 hash = "199780a11fff42f04e8806677fff6255d51e815493b52fa7224be8b6b344306d"
 
 [[files]]
 file = "config/comforts-server.toml"
 hash = "7a618bd3fc7fd7c02f2935b5ca9282b90663d823d63c521e1fba1b650aaec0d2"
+
+[[files]]
+file = "config/create_connected-common.toml"
+hash = "d06d1545561d95393cb5647f301e80ebd5c9c7b80a9dff307f72bf9f7a1362e0"
 
 [[files]]
 file = "config/openpartiesandclaims-server.toml"
